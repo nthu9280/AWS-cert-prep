@@ -1,6 +1,6 @@
-#Virtual Private Cloud Basics
+# Virtual Private Cloud Basics
 
-##VPC Considerations
+## VPC Considerations
 
 What size should the VPC be..
 
